@@ -8,7 +8,7 @@
 
 _Привет_
 
-![Начинающий Java разработчик](image.png)
+![image](https://github.com/user-attachments/assets/a3cab3f8-5780-4e83-8399-7cdbf6fcea95)
 
 Я начинающий   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
  разработчик. Не боюсь общения с людьми, как и трудностей в процессе разработки. Готов пахать как лошадь и быстро латать дырки в навыках.
