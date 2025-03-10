@@ -9,7 +9,7 @@
 _Привет_
 
 <div id="header" align="center">
-  <img src="https://github.com/user-attachments/assets/a3cab3f8-5780-4e83-8399-7cdbf6fcea95f" width="100"/>
+  <img src="https://github.com/user-attachments/assets/a3cab3f8-5780-4e83-8399-7cdbf6fcea95f" width="300"/>
 </div>
 
 Я начинающий   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
