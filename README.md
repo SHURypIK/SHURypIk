@@ -16,3 +16,5 @@ _Привет_
 ## :Мой код
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHURypIK&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+Вся Java в private репозиториях
