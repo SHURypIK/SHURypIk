@@ -2,9 +2,17 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <img src="https://komarev.com/ghpvc/?username=SHURypIk&style=flat-square&color=blue" alt=""/>
 </div>
 
-<divalign="center">
-  <img src="https://komarev.com/ghpvc/?username=SHURypIk&style=flat-square&color=blue" alt=""/>
-</div>
+## Обо мне
+
+_Привет_
+
+![Начинающий Java разработчик](image.png)
+
+Я начинающий   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+ разработчик. Не боюсь общения с людьми, как и трудностей в процессе разработки. Готов пахать как лошадь и быстро латать дырки в навыках.
+
+## :Мой код
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHURypIK&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
